@@ -1,0 +1,23 @@
+body{
+    padding: 50px 100px;
+}
+h1{
+    background-color: #0067B0;
+    color: white;
+    text-align: center;
+    width: 70%;
+}
+
+#text-area{
+    width: 70%;
+}
+
+p{
+     text-align: center;
+     background-color: #0067B0;
+     width: 70%;
+     color: white;
+     font: bold;
+     font-size: 25px;
+     padding: 10px;
+}
